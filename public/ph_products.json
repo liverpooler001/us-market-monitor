@@ -1,108 +1,6 @@
 {
-  "updated_at": "2026-07-27T22:58:04",
+  "updated_at": "2026-07-28T22:55:17",
   "days": {
-    "2026-07-20": [
-      {
-        "name": "OpenChatCut",
-        "slug": "openchatcut",
-        "desc": "Open-source AI agent video editor with a real timeline",
-        "desc_zh": "具有真实时间线的开源 AI 代理视频编辑器",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/openchatcut",
-        "product_link": "https://openchatcut.com/",
-        "source": "feed"
-      },
-      {
-        "name": "ProtoFlow",
-        "slug": "protoflow-2",
-        "desc": "AI-powered PCB design tool for engineers and hardware teams",
-        "desc_zh": "为工程师和硬件团队提供人工智能驱动的 PCB 设计工具",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/protoflow-2",
-        "product_link": "https://protoflow.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "PieceKeeper",
-        "slug": "piecekeeper",
-        "desc": "Track your music repertoire and practice",
-        "desc_zh": "跟踪您的音乐曲目和练习",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/piecekeeper",
-        "product_link": "https://getpiecekeeper.com/",
-        "source": "feed"
-      },
-      {
-        "name": "Manifest",
-        "slug": "manifest-363",
-        "desc": "Turn any webpage into an action manifest for AI agents",
-        "desc_zh": "将任何网页变成人工智能代理的行动清单",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/manifest-363",
-        "product_link": "https://omfang.io/",
-        "source": "feed"
-      },
-      {
-        "name": "Topolines",
-        "slug": "topolines",
-        "desc": "Generate Topologic contours",
-        "desc_zh": "生成拓扑轮廓",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/topolines",
-        "product_link": "https://www.topolines.app/",
-        "source": "feed"
-      },
-      {
-        "name": "Skim",
-        "slug": "skim-5",
-        "desc": "Free, open-source AI email client for Windows",
-        "desc_zh": "适用于 Windows 的免费开源 AI 电子邮件客户端",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/skim-5",
-        "product_link": "https://skim-tech.com/",
-        "source": "feed"
-      },
-      {
-        "name": "ArachStudio",
-        "slug": "arachstudio",
-        "desc": "Live-edit your GitHub components directly in the browser",
-        "desc_zh": "直接在浏览器中实时编辑 GitHub 组件",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/arachstudio",
-        "product_link": "https://arachstudio01.vercel.app/",
-        "source": "feed"
-      },
-      {
-        "name": "BUD",
-        "slug": "bud-voice-canvas",
-        "desc": "Voice-first canvas for sketchnoting and whiteboarding",
-        "desc_zh": "用于草图笔记和白板的语音优先画布",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/bud-voice-canvas",
-        "product_link": "https://www.budcanvas.app/",
-        "source": "feed"
-      },
-      {
-        "name": "ShellMate",
-        "slug": "shellmate-2",
-        "desc": "The SSH workspace you'll actually enjoy using",
-        "desc_zh": "您真正喜欢使用的 SSH 工作区",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/shellmate-2",
-        "product_link": "https://shellmate.net/",
-        "source": "feed"
-      },
-      {
-        "name": "yatta!",
-        "slug": "yatta",
-        "desc": "A cute little to-do list that celebrates with you",
-        "desc_zh": "一个可爱的小待办事项清单，与您一起庆祝",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/yatta",
-        "product_link": "https://apps.apple.com/us/app/yatta-cute-to-do-list-tasks/id6773757652",
-        "source": "feed"
-      }
-    ],
     "2026-07-22": [
       {
         "name": "Wisprkey",
@@ -645,6 +543,46 @@
         "ph_link": "https://www.producthunt.com/products/socap",
         "product_link": "https://www.audos.com/",
         "source": "feed"
+      },
+      {
+        "name": "Conduit",
+        "slug": "conduit-ai",
+        "desc": "AI agents purpose-built for Hospitality",
+        "desc_zh": "专为酒店业打造的人工智能代理",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/conduit-ai",
+        "product_link": "https://www.conduit.ai/",
+        "source": "feed"
+      },
+      {
+        "name": "Ycode AI Agents",
+        "slug": "ycode",
+        "desc": "Build websites with AI",
+        "desc_zh": "使用人工智能构建网站",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/ycode",
+        "product_link": "https://www.ycode.com/",
+        "source": "feed"
+      },
+      {
+        "name": "RecipeBook by Shofo",
+        "slug": "recipebook-by-shofo",
+        "desc": "Buy video training data by the hour featuring 25M+ clips",
+        "desc_zh": "按小时购买包含 2500 万多个剪辑的视频训练数据",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/recipebook-by-shofo",
+        "product_link": "https://recipebook.shofo.ai/",
+        "source": "feed"
+      },
+      {
+        "name": "Lottie Creator 2.0",
+        "slug": "lottiefiles",
+        "desc": "After Effects for the web, built on Lottie",
+        "desc_zh": "After Effects 网页版，基于 Lottie 构建",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/lottiefiles",
+        "product_link": "https://lottiefiles.com/",
+        "source": "feed"
       }
     ],
     "2026-07-23": [
@@ -716,6 +654,16 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/cynative-deep-infra-research",
         "product_link": "https://github.com/cynative/cynative",
+        "source": "feed"
+      },
+      {
+        "name": "Cardzen",
+        "slug": "cardzen",
+        "desc": "Track every credit, perk, and point before it expires",
+        "desc_zh": "在过期前跟踪每项积分、福利和积分",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/cardzen",
+        "product_link": "https://cardzen.ai/",
         "source": "feed"
       }
     ],
@@ -1101,6 +1049,16 @@
         "ph_link": "https://www.producthunt.com/products/localskills-sh",
         "product_link": "https://localskills.sh/",
         "source": "feed"
+      },
+      {
+        "name": "Phantom",
+        "slug": "phantom-6",
+        "desc": "Voice-first AI agent that operates your Mac",
+        "desc_zh": "操作您的 Mac 的语音优先 AI 代理",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/phantom-6",
+        "product_link": "https://www.heyphantom.app/",
+        "source": "feed"
       }
     ],
     "2026-07-26": [
@@ -1433,6 +1391,148 @@
         "product_link": "https://posthog.com/",
         "source": "playwright",
         "desc_zh": "热门类别"
+      },
+      {
+        "name": "qsa.sh",
+        "slug": "qsa-sh-quick-security-audit",
+        "desc": "External security scan of your own IP, in your terminal",
+        "desc_zh": "在您的终端中对您自己的 IP 进行外部安全扫描",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
+        "product_link": "https://qsa.sh/",
+        "source": "feed"
+      }
+    ],
+    "2026-07-27": [
+      {
+        "name": "Liminal",
+        "slug": "liminal-4",
+        "desc": "A workspace & 2nd brain for you, your agent, and your team",
+        "desc_zh": "为您、您的代理和您的团队提供工作空间和第二大脑",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/liminal-4",
+        "product_link": "https://useliminal.xyz/",
+        "source": "feed"
+      },
+      {
+        "name": "Lamoom",
+        "slug": "lamoom",
+        "desc": "Run agent apps inside your Claude or sell your own",
+        "desc_zh": "在 Claude 内部运行代理应用程序或出售您自己的应用程序",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/lamoom",
+        "product_link": "https://lamoom.com/",
+        "source": "feed"
+      },
+      {
+        "name": "Cercle",
+        "slug": "cercle",
+        "desc": "The bat signal for your closest friends.",
+        "desc_zh": "向您最亲密的朋友发出的蝙蝠信号。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/cercle",
+        "product_link": "https://cercle.me/",
+        "source": "feed"
+      },
+      {
+        "name": "Firstpass",
+        "slug": "glaze-4",
+        "desc": "Actionable input so you nail every launch",
+        "desc_zh": "可操作的输入，让您成功完成每次发布",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/glaze-4",
+        "product_link": "https://glaze.app/",
+        "source": "feed"
+      },
+      {
+        "name": "MCP-Billing",
+        "slug": "mcp-billing",
+        "desc": "OAuth 2.1 + usage-based Stripe billing for MCP servers",
+        "desc_zh": "OAuth 2.1 + MCP 服务器基于使用情况的 Stripe 计费",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/mcp-billing",
+        "product_link": "https://mcp-billing.com/",
+        "source": "feed"
+      },
+      {
+        "name": "ZenithBar",
+        "slug": "zenithbar",
+        "desc": "The activity island Windows was missing",
+        "desc_zh": "活动岛窗户缺失",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/zenithbar",
+        "product_link": "https://zenithbar.com.br/",
+        "source": "feed"
+      },
+      {
+        "name": "Growth Opt Playbook",
+        "slug": "growth-opt-playbook",
+        "desc": "Turn campaign data into your next marketing move",
+        "desc_zh": "将营销活动数据转化为您的下一个营销举措",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/growth-opt-playbook",
+        "product_link": "https://growthoptplaybook.com/en/",
+        "source": "feed"
+      },
+      {
+        "name": "Tag Your Photos",
+        "slug": "tag-your-photos",
+        "desc": "AI-powered keywords for Apple Photos, 100% on your Mac",
+        "desc_zh": "Apple Photos 的 AI 驱动关键字，100% 在您的 Mac 上",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/tag-your-photos",
+        "product_link": "https://apps.apple.com/us/app/tag-your-photos/id6791743568?mt=12&ref=producthunt",
+        "source": "feed"
+      },
+      {
+        "name": "Pinery Prose",
+        "slug": "pinery",
+        "desc": "AI co-author for books + every edit is a diff you approve",
+        "desc_zh": "AI 书籍合著者 + 每次编辑都是您批准的差异",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/pinery",
+        "product_link": "https://pinery.app/",
+        "source": "feed"
+      },
+      {
+        "name": "SUB/WAVE",
+        "slug": "sub-wave",
+        "desc": "Self-hosted radio with an AI DJ and one shared stream",
+        "desc_zh": "带有 AI DJ 和一个共享流的自托管电台",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/sub-wave",
+        "product_link": "https://www.getsubwave.com/",
+        "source": "feed"
+      },
+      {
+        "name": "EasyCircuit",
+        "slug": "easycircuit",
+        "desc": "Hardware prototyping, as simple as vibe-coding",
+        "desc_zh": "硬件原型设计，就像振动编码一样简单",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/easycircuit",
+        "product_link": "https://easycircuit.app/",
+        "source": "feed"
+      },
+      {
+        "name": "Space-Bin",
+        "slug": "space-bin",
+        "desc": "Secure temporary workspaces. No sign-up required.",
+        "desc_zh": "确保临时工作空间的安全。无需注册。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/space-bin",
+        "product_link": "https://space-bin.onrender.com/",
+        "source": "feed"
+      },
+      {
+        "name": "G.I.A.ac",
+        "slug": "g-i-a-ac",
+        "desc": "Build real, working apps from a single sentence",
+        "desc_zh": "用一句话构建真实、有效的应用程序",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/g-i-a-ac",
+        "product_link": "https://www.gia.ac/",
+        "source": "feed"
       }
     ]
   }
