@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T22:55:17",
+  "updated_at": "2026-07-29T23:03:45",
   "days": {
     "2026-07-22": [
       {
@@ -665,87 +665,15 @@
         "ph_link": "https://www.producthunt.com/products/cardzen",
         "product_link": "https://cardzen.ai/",
         "source": "feed"
-      }
-    ],
-    "2026-07-21": [
-      {
-        "name": "Islet",
-        "slug": "islet-2",
-        "desc": "iPhone's Dynamic Island, brought to your Mac's notch",
-        "desc_zh": "iPhone 的动态岛，提升到 Mac 的水平",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/islet-2",
-        "product_link": "https://lippi304.xyz/projects/islet",
-        "source": "feed"
       },
       {
-        "name": "HarnessRouter",
-        "slug": "epsilla",
-        "desc": "Bring the world's best AI agents into your app, with one API",
-        "desc_zh": "通过一个 API 将世界上最好的 AI 代理引入您的应用程序",
+        "name": "MemoryCustodian",
+        "slug": "memorycustodian",
+        "desc": "Repo-native memory for coding agents",
+        "desc_zh": "编码代理的循环记忆",
         "image": "",
-        "ph_link": "https://www.producthunt.com/products/epsilla",
-        "product_link": "https://harnessrouter.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "LapuAi",
-        "slug": "lapuai",
-        "desc": "OS Driver for AI to use computers",
-        "desc_zh": "AI使用计算机的操作系统驱动程序",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/lapuai",
-        "product_link": "https://lapu.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "AskCodi",
-        "slug": "askcodi",
-        "desc": "Orchestrate agents at scale while reducing cost",
-        "desc_zh": "大规模协调代理同时降低成本",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/askcodi",
-        "product_link": "https://askcodi.com/",
-        "source": "feed"
-      },
-      {
-        "name": "El Niño",
-        "slug": "el-nino",
-        "desc": "See live signals from the Pacific warming climate",
-        "desc_zh": "查看太平洋气候变暖的实时信号",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/el-nino",
-        "product_link": "https://elnino.tony.expert/",
-        "source": "feed"
-      },
-      {
-        "name": "Aymo AI",
-        "slug": "aymo-ai",
-        "desc": "All-in-one AI Platform for Teams",
-        "desc_zh": "面向团队的一体化人工智能平台",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/aymo-ai",
-        "product_link": "https://aymo.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "PenguinHarness",
-        "slug": "penguinharness",
-        "desc": "Let Agents Autonomously Build Better Agents for $0.02",
-        "desc_zh": "让代理以 0.02 美元自主构建更好的代理",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/penguinharness",
-        "product_link": "https://penguin.ooo/",
-        "source": "feed"
-      },
-      {
-        "name": "Illume Labs",
-        "slug": "illume-labs",
-        "desc": "24/7 personalized health companion you can text",
-        "desc_zh": "24/7 个性化健康伴侣，您可以发短信",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/illume-labs",
-        "product_link": "https://www.illumelabs.ai/",
+        "ph_link": "https://www.producthunt.com/products/memorycustodian",
+        "product_link": "https://www.producthunt.com/r/p/1205016?app_id=339",
         "source": "feed"
       }
     ],
@@ -1532,6 +1460,108 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/g-i-a-ac",
         "product_link": "https://www.gia.ac/",
+        "source": "feed"
+      },
+      {
+        "name": "/mission for Claude Code",
+        "slug": "spine-2",
+        "desc": "Give Claude Code missions to spawn a team of agents",
+        "desc_zh": "给予克劳德·代码任务以产生一支特工团队",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/spine-2",
+        "product_link": "https://www.producthunt.com/r/p/1208194?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Vela",
+        "slug": "vela-4",
+        "desc": "The AI Recruiting Coordinator",
+        "desc_zh": "AI 招聘协调员",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/vela-4",
+        "product_link": "https://www.producthunt.com/r/p/1208373?app_id=339",
+        "source": "feed"
+      }
+    ],
+    "2026-07-28": [
+      {
+        "name": "SceneNote",
+        "slug": "scenenote-free-video-feedback-tool",
+        "desc": "Free video feedback tool for editors & clients",
+        "desc_zh": "为编辑和客户提供的免费视频反馈工具",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
+        "product_link": "https://www.producthunt.com/r/p/1208540?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Task Monki",
+        "slug": "task-monki",
+        "desc": "Run coding agents through the full development process",
+        "desc_zh": "在整个开发过程中运行编码代理",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/task-monki",
+        "product_link": "https://www.producthunt.com/r/p/1209254?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Totem",
+        "slug": "totem-5",
+        "desc": "Your Twitter bookmarks organized to make you read them",
+        "desc_zh": "您的 Twitter 书签经过整理以便您阅读",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/totem-5",
+        "product_link": "https://www.producthunt.com/r/p/1208746?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Bo AI",
+        "slug": "bo-ai",
+        "desc": "An AI personal assistant that lives in your texts 💬",
+        "desc_zh": "存在于您的文本中的人工智能个人助理💬",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/bo-ai",
+        "product_link": "https://www.producthunt.com/r/p/1209039?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Epilude",
+        "slug": "epilude",
+        "desc": "Local voice dictation for Mac for polished text",
+        "desc_zh": "适用于 Mac 的本地语音听写，提供优美的文本",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/epilude",
+        "product_link": "https://www.producthunt.com/r/p/1209468?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "AgentQuartz",
+        "slug": "agentquartz",
+        "desc": "Claude & Cursor usage in your macOS menu bar",
+        "desc_zh": "Claude & Cursor 在 macOS 菜单栏中的使用",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/agentquartz",
+        "product_link": "https://www.producthunt.com/r/p/1209289?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "BlackFlare",
+        "slug": "blackflare",
+        "desc": "Mission control for Claude Code & Codex in your menu bar",
+        "desc_zh": "菜单栏中 Claude Code 和 Codex 的任务控制",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/blackflare",
+        "product_link": "https://www.producthunt.com/r/p/1208599?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "JusTTY",
+        "slug": "justty",
+        "desc": "A simple native macOS terminal built on Swift and libghostty",
+        "desc_zh": "基于 Swift 和 libghostty 构建的简单本机 macOS 终端",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/justty",
+        "product_link": "https://www.producthunt.com/r/p/1209158?app_id=339",
         "source": "feed"
       }
     ]
