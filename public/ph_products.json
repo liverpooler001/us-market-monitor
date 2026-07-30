@@ -1,198 +1,6 @@
 {
-  "updated_at": "2026-07-29T23:03:45",
+  "updated_at": "2026-07-30T23:01:29",
   "days": {
-    "2026-07-22": [
-      {
-        "name": "Wisprkey",
-        "slug": "wisprkey-mac-ai-assistant",
-        "desc": "Talk to any app on your Mac",
-        "desc_zh": "与 Mac 上的任何应用程序对话",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
-        "product_link": "https://www.wisprkey.com/",
-        "source": "feed"
-      },
-      {
-        "name": "FluentDB",
-        "slug": "fluentdb-2",
-        "desc": "The AI database client for Mac",
-        "desc_zh": "适用于 Mac 的 AI 数据库客户端",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/fluentdb-2",
-        "product_link": "https://fluentdb.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "Liso",
-        "slug": "liso-listen-to-highlights",
-        "desc": "Highlight text on any page and turn it into audio.",
-        "desc_zh": "突出显示任何页面上的文本并将其转换为音频。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/liso-listen-to-highlights",
-        "product_link": "https://www.getliso.app/",
-        "source": "feed"
-      },
-      {
-        "name": "Freesolo Flash",
-        "slug": "freesolo-flash",
-        "desc": "Full-Stack Platform for Training Small Language Models",
-        "desc_zh": "用于训练小语言模型的全栈平台",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/freesolo-flash",
-        "product_link": "https://freesolo.co/",
-        "source": "feed"
-      },
-      {
-        "name": "YC has it",
-        "slug": "yc-has-it",
-        "desc": "Describe your problem, get the YC startup that solves it",
-        "desc_zh": "描述您的问题，找到 YC 初创公司来解决它",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/yc-has-it",
-        "product_link": "https://ychasit.com/",
-        "source": "feed"
-      },
-      {
-        "name": "The new Firecrawl /search",
-        "slug": "extract-by-firecrawl",
-        "desc": "Our most accurate Search API for AI agents.",
-        "desc_zh": "我们最准确的 AI 代理搜索 API。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/extract-by-firecrawl",
-        "product_link": "https://www.firecrawl.dev/",
-        "source": "feed"
-      },
-      {
-        "name": "Basedash AI Kit",
-        "slug": "basedash",
-        "desc": "Ship AI analytics in your product, powered by GPT-5.6",
-        "desc_zh": "由 GPT-5.6 提供支持，在您的产品中提供 AI 分析",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/basedash",
-        "product_link": "https://www.basedash.com/",
-        "source": "feed"
-      },
-      {
-        "name": "NotifyBridge",
-        "slug": "notifybridge",
-        "desc": "Dead-Simple IoT Push Notifications for Makers & Hobbyists",
-        "desc_zh": "为创客和爱好者提供极其简单的物联网推送通知",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/notifybridge",
-        "product_link": "https://www.mindeon.net/",
-        "source": "feed"
-      },
-      {
-        "name": "Chimlo",
-        "slug": "chimlo-agents-in-your-macbook-notch",
-        "desc": "Track Codex and Claude Code and respond from your Notch",
-        "desc_zh": "跟踪 Codex 和 Claude Code 并从您的 Notch 做出响应",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch",
-        "product_link": "https://kraten.github.io/chimlo/",
-        "source": "feed"
-      },
-      {
-        "name": "Speakworld",
-        "slug": "speakworld",
-        "desc": "Learn languages by exploring worlds and talking to locals.",
-        "desc_zh": "通过探索世界和与当地人交谈来学习语言。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/speakworld",
-        "product_link": "https://speakworld-342475645314.us-central1.run.app/",
-        "source": "feed"
-      },
-      {
-        "name": "Fikry",
-        "slug": "mis-trained-model-fikry",
-        "desc": "A mis-trained AI powered by bad data and confidence",
-        "desc_zh": "由不良数据和信心驱动的训练有误的人工智能",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/mis-trained-model-fikry",
-        "product_link": "https://asktofikry.vercel.app/",
-        "source": "feed"
-      },
-      {
-        "name": "ReExplain",
-        "slug": "reexplain",
-        "desc": "Explain what you know to AI and discover what you don't",
-        "desc_zh": "向 AI 解释您所知道的内容并发现您不知道的内容",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/reexplain",
-        "product_link": "https://www.reexplain.app/",
-        "source": "feed"
-      },
-      {
-        "name": "Rehello",
-        "slug": "rehello",
-        "desc": "Made for introverts to remember people & reconnect naturally",
-        "desc_zh": "专为内向的人打造，帮助他们记住他人并自然地重新建立联系",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/rehello",
-        "product_link": "https://re-hello.vercel.app/",
-        "source": "feed"
-      },
-      {
-        "name": "Plow Mac App",
-        "slug": "plow-mac-app-safely-run-gpt-5-6-agents",
-        "desc": "Run GPT-5.6 on OpenClaw & Hermes safely on your Mac",
-        "desc_zh": "在 Mac 上安全地运行 OpenClaw 和 Hermes 上的 GPT-5.6",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/plow-mac-app-safely-run-gpt-5-6-agents",
-        "product_link": "https://plow.co/alpha-launch",
-        "source": "feed"
-      },
-      {
-        "name": "Trend Seeker",
-        "slug": "trend-seeker",
-        "desc": "Market research and idea validation from 140K+ signals",
-        "desc_zh": "来自 140K+ 信号的市场研究和想法验证",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/trend-seeker",
-        "product_link": "https://trend-seeker.app/",
-        "source": "feed"
-      },
-      {
-        "name": "AgentLoop",
-        "slug": "agentloop-2",
-        "desc": "Starts a fresh Codex worker and critic every cycle",
-        "desc_zh": "每个周期启动一名新的法典工作人员和批评家",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/agentloop-2",
-        "product_link": "https://agentloop.tools/",
-        "source": "feed"
-      },
-      {
-        "name": "Vevey",
-        "slug": "vevey",
-        "desc": "A game development tutor now on iOS",
-        "desc_zh": "iOS 上的游戏开发导师",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/vevey",
-        "product_link": "https://vevey.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "Webhound",
-        "slug": "webhound",
-        "desc": "A research engine for your agent",
-        "desc_zh": "为您的代理人提供的研究引擎",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/webhound",
-        "product_link": "https://webhound.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "Repaint Socials",
-        "slug": "repaint-ai-website-builder",
-        "desc": "Build a website from Google Business, Instagram, or Facebook",
-        "desc_zh": "通过 Google Business、Instagram 或 Facebook 构建网站",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/repaint-ai-website-builder",
-        "product_link": "https://repaint.com/",
-        "source": "feed"
-      }
-    ],
     "2026-07-24": [
       {
         "name": "OpenComputer",
@@ -1563,6 +1371,368 @@
         "ph_link": "https://www.producthunt.com/products/justty",
         "product_link": "https://www.producthunt.com/r/p/1209158?app_id=339",
         "source": "feed"
+      },
+      {
+        "name": "Claude Code usage tracking by LangWatch",
+        "slug": "langwatch",
+        "desc": "See what your Claude Code sessions actually cost",
+        "desc_zh": "查看您的 Claude Code 课程实际费用是多少",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/langwatch",
+        "product_link": "https://www.producthunt.com/r/p/1208851?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "SKI",
+        "slug": "ski",
+        "desc": "Free voice coding for Claude Code, Codex and more",
+        "desc_zh": "Claude Code、Codex 等的免费语音编码",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/ski",
+        "product_link": "https://www.producthunt.com/r/p/1208711?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Caimera",
+        "slug": "caimera-2",
+        "desc": "AI Visual Production Platform for Fashion Teams",
+        "desc_zh": "时尚团队AI视觉制作平台",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/caimera-2",
+        "product_link": "https://www.producthunt.com/r/p/1208527?app_id=339",
+        "source": "feed"
+      }
+    ],
+    "2026-07-29": [
+      {
+        "name": "Yap",
+        "slug": "yap-5",
+        "desc": "Open-source voice dictation for Mac, fully on-device",
+        "desc_zh": "适用于 Mac 的开源语音听写，完全在设备上",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/yap-5",
+        "product_link": "https://www.producthunt.com/r/p/1210183?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Greplica",
+        "slug": "greplica",
+        "desc": "Self updating wiki for coding agents",
+        "desc_zh": "编码代理的自我更新 wiki",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/greplica",
+        "product_link": "https://www.producthunt.com/r/p/1209541?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Focus Room",
+        "slug": "focus-room",
+        "desc": "Turn YouTube into your personal learning platform",
+        "desc_zh": "将 YouTube 变成您的个人学习平台",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/focus-room",
+        "product_link": "https://www.producthunt.com/r/p/1210006?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Pally",
+        "slug": "pally",
+        "desc": "Your personal assistant that lives in your texts",
+        "desc_zh": "您的私人助理就存在于您的短信中",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/pally",
+        "product_link": "https://www.producthunt.com/r/p/1210286?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Cursor Crane",
+        "slug": "cursor-crane",
+        "desc": "Control your Mac at the pace of your keyboard",
+        "desc_zh": "按照键盘的节奏控制您的 Mac",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/cursor-crane",
+        "product_link": "https://www.producthunt.com/r/p/1210102?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Sorinai",
+        "slug": "sorinai",
+        "desc": "The Interative AI Notepad for Meetings",
+        "desc_zh": "用于会议的交互式 AI 记事本",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/sorinai",
+        "product_link": "https://www.producthunt.com/r/p/1210366?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Premation",
+        "slug": "premation",
+        "desc": "An open-source AI alternative to After Effects",
+        "desc_zh": "After Effects 的开源 AI 替代方案",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/premation",
+        "product_link": "https://www.producthunt.com/r/p/1210281?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Phantom Voice",
+        "slug": "phantom-voice",
+        "desc": "Local push-to-talk dictation for Mac",
+        "desc_zh": "适用于 Mac 的本地一键通听写",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/phantom-voice",
+        "product_link": "https://www.producthunt.com/r/p/1209642?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Virre",
+        "slug": "virre",
+        "desc": "A private relationship system for your career and network.",
+        "desc_zh": "适合您的职业和网络的私人关系系统。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/virre",
+        "product_link": "https://www.producthunt.com/r/p/1210292?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "docktor",
+        "slug": "docktor",
+        "desc": "Your Dock's wasted side space, now full of widgets",
+        "desc_zh": "你的 Dock 被浪费的侧面空间现在充满了小部件",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/docktor",
+        "product_link": "https://www.producthunt.com/r/p/1210106?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "PRNotch",
+        "slug": "prnotch",
+        "desc": "GitHub pull requests in your Mac's notch",
+        "desc_zh": "Mac 上的 GitHub 拉取请求",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/prnotch",
+        "product_link": "https://www.producthunt.com/r/p/1209848?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Prelint",
+        "slug": "prelint",
+        "image": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Prevent product drift in AI-written code",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/prelint",
+        "product_link": "https://www.producthunt.com/products/prelint",
+        "source": "playwright",
+        "desc_zh": "防止人工智能编写的代码中的产品偏差"
+      },
+      {
+        "name": "SoundGate Guitar",
+        "slug": "soundgate-guitar-app",
+        "image": "https://ph-files.imgix.net/075e21ff-db7f-4bec-aa4e-be0be8897626.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "AI Music Tutor that gives real-time feedback on your playing",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/soundgate-guitar-app",
+        "product_link": "https://www.producthunt.com/products/soundgate-guitar-app",
+        "source": "playwright",
+        "desc_zh": "AI 音乐导师可为您的演奏提供实时反馈"
+      },
+      {
+        "name": "Denovo",
+        "slug": "denovo-business-manager",
+        "image": "https://ph-files.imgix.net/93aac7bb-d5a6-4c32-8611-7018fabe2faa.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Turn your vibe-coded app into paying customers",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/denovo-business-manager",
+        "product_link": "https://www.producthunt.com/products/denovo-business-manager",
+        "source": "playwright",
+        "desc_zh": "将您的氛围编码应用程序转变为付费客户"
+      },
+      {
+        "name": "/mission for Claude Code",
+        "slug": "spine-2",
+        "image": "https://ph-files.imgix.net/8c5430f5-834a-4f5a-94e6-cb3c0d0383db.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Give Claude Code missions to spawn a team of agents",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/spine-2",
+        "product_link": "https://www.producthunt.com/products/spine-2",
+        "source": "playwright",
+        "desc_zh": "给予克劳德·代码任务以产生一支特工团队"
+      },
+      {
+        "name": "ClinicFrame",
+        "slug": "clinic-scribe-clinicframe",
+        "image": "",
+        "desc": "Like Granola, but for healthcare. Fully HIPAA-compliant.",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
+        "product_link": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
+        "source": "playwright",
+        "desc_zh": "就像格兰诺拉麦片一样，但用于医疗保健。完全符合 HIPAA 标准。"
+      },
+      {
+        "name": "MemoryCustodian",
+        "slug": "memorycustodian",
+        "image": "https://ph-files.imgix.net/19311eae-0ab4-4226-a56c-3d8a85392c57.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Repo-native memory for coding agents",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/memorycustodian",
+        "product_link": "https://www.producthunt.com/products/memorycustodian",
+        "source": "playwright",
+        "desc_zh": "编码代理的循环记忆"
+      },
+      {
+        "name": "Totem",
+        "slug": "totem-5",
+        "image": "https://ph-files.imgix.net/448a6b86-4bb2-4fca-9324-e2ad6b925bef.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Your Twitter bookmarks organized to make you read them",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/totem-5",
+        "product_link": "https://www.producthunt.com/products/totem-5",
+        "source": "playwright",
+        "desc_zh": "您的 Twitter 书签经过整理以便您阅读"
+      },
+      {
+        "name": "Bo AI",
+        "slug": "bo-ai",
+        "image": "https://ph-files.imgix.net/bf7e6ff3-68de-462c-855f-ad6028363761.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "An AI personal assistant that lives in your texts 💬",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/bo-ai",
+        "product_link": "https://www.producthunt.com/products/bo-ai",
+        "source": "playwright",
+        "desc_zh": "存在于您的文本中的人工智能个人助理💬"
+      },
+      {
+        "name": "Task Monki",
+        "slug": "task-monki",
+        "image": "https://ph-files.imgix.net/9b608328-f855-4b13-b9ef-1a02821fc16f.svg?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Run coding agents through the full development process",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/task-monki",
+        "product_link": "https://www.producthunt.com/products/task-monki",
+        "source": "playwright",
+        "desc_zh": "在整个开发过程中运行编码代理"
+      },
+      {
+        "name": "ElevenAgents by ElevenLabs",
+        "slug": "elevenlabs",
+        "image": "https://ph-files.imgix.net/dc160ec3-c861-4acb-8e9c-f026c875df9c.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Scale conversations without scaling your team",
+        "upvotes": 668,
+        "ph_link": "https://www.producthunt.com/products/elevenlabs",
+        "product_link": "https://www.producthunt.com/products/elevenlabs",
+        "source": "playwright",
+        "desc_zh": "Scale conversations without scaling your team"
+      },
+      {
+        "name": "Vela",
+        "slug": "vela-4",
+        "image": "https://ph-files.imgix.net/a0fb980b-df99-4165-8e1b-9171efa8c0b5.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "The AI Recruiting Coordinator",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/vela-4",
+        "product_link": "https://www.producthunt.com/products/vela-4",
+        "source": "playwright",
+        "desc_zh": "AI 招聘协调员"
+      },
+      {
+        "name": "Epilude",
+        "slug": "epilude",
+        "image": "https://ph-files.imgix.net/d8985b1b-a0e1-4cef-8b35-d3ffd214db83.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Local voice dictation for Mac for polished text",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/epilude",
+        "product_link": "https://www.producthunt.com/products/epilude",
+        "source": "playwright",
+        "desc_zh": "适用于 Mac 的本地语音听写，提供优美的文本"
+      },
+      {
+        "name": "SceneNote",
+        "slug": "scenenote-free-video-feedback-tool",
+        "image": "https://ph-files.imgix.net/57fc5424-163d-41c5-b9a3-d08741390c7b.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Free video feedback tool for editors & clients",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
+        "product_link": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
+        "source": "playwright",
+        "desc_zh": "为编辑和客户提供的免费视频反馈工具"
+      },
+      {
+        "name": "AgentQuartz",
+        "slug": "agentquartz",
+        "image": "https://ph-files.imgix.net/dca0c574-6dd8-41fc-b8d7-0b9d95989fd5.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Claude & Cursor usage in your macOS menu bar",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/agentquartz",
+        "product_link": "https://www.producthunt.com/products/agentquartz",
+        "source": "playwright",
+        "desc_zh": "Claude & Cursor 在 macOS 菜单栏中的使用"
+      },
+      {
+        "name": "BlackFlare",
+        "slug": "blackflare",
+        "image": "https://ph-files.imgix.net/0abdf89d-adc7-455a-a73c-eec17b96ab8f.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Mission control for Claude Code & Codex in your menu bar",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/blackflare",
+        "product_link": "https://www.producthunt.com/products/blackflare",
+        "source": "playwright",
+        "desc_zh": "菜单栏中 Claude Code 和 Codex 的任务控制"
+      },
+      {
+        "name": "Framer AI Agents",
+        "slug": "framer",
+        "image": "https://ph-files.imgix.net/c984e815-e879-4211-9fc9-2bd3dd79d9b9.jpeg?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "Design and publish professional sites with AI",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/framer",
+        "product_link": "https://www.producthunt.com/products/framer",
+        "source": "playwright",
+        "desc_zh": "利用人工智能设计和发布专业网站"
+      },
+      {
+        "name": "JusTTY",
+        "slug": "justty",
+        "image": "https://ph-files.imgix.net/b9a117c1-3d26-4c53-bd50-147d41a95f23.png?auto=compress,format&codec=mozjpeg&cs=strip&fit=crop&frame=1&h=128&w=128",
+        "desc": "A simple native macOS terminal built on Swift and libghostty",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/justty",
+        "product_link": "https://www.producthunt.com/products/justty",
+        "source": "playwright",
+        "desc_zh": "基于 Swift 和 libghostty 构建的简单本机 macOS 终端"
+      },
+      {
+        "name": "EQK 3.0",
+        "slug": "eqk-eq-with-ai",
+        "image": "https://ph-files.imgix.net/55094535-c841-471a-a7c7-5b7c5f7cc558.gif?auto=compress&codec=mozjpeg&cs=strip&dpr=2&fit=max&fm=webp&frame=1&h=128&w=128",
+        "desc": "Mac app with dynamic AI Equaliser",
+        "upvotes": 833,
+        "ph_link": "https://www.producthunt.com/products/eqk-eq-with-ai",
+        "product_link": "https://www.producthunt.com/products/eqk-eq-with-ai",
+        "source": "playwright",
+        "desc_zh": "具有动态 AI 均衡器的 Mac 应用"
+      },
+      {
+        "name": "Lovable",
+        "slug": "lovable/reviews?ref=footer",
+        "image": "",
+        "desc": "Trending categories",
+        "upvotes": 0,
+        "ph_link": "https://www.producthunt.com/products/lovable/reviews?ref=footer",
+        "product_link": "https://www.producthunt.com/products/lovable/reviews?ref=footer",
+        "source": "playwright",
+        "desc_zh": "Trending categories"
+      },
+      {
+        "name": "n8n",
+        "slug": "n8n-io/reviews?ref=footer",
+        "image": "",
+        "desc": "Trending categories",
+        "upvotes": 0,
+        "ph_link": "https://www.producthunt.com/products/n8n-io/reviews?ref=footer",
+        "product_link": "https://www.producthunt.com/products/n8n-io/reviews?ref=footer",
+        "source": "playwright",
+        "desc_zh": "热门类别"
       }
     ]
   }
