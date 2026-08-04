@@ -1,188 +1,6 @@
 {
-  "updated_at": "2026-08-03T22:56:40",
+  "updated_at": "2026-08-04T22:56:59",
   "days": {
-    "2026-07-27": [
-      {
-        "name": "Liminal",
-        "slug": "liminal-4",
-        "desc": "A workspace & 2nd brain for you, your agent, and your team",
-        "desc_zh": "为您、您的代理和您的团队提供工作空间和第二大脑",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/liminal-4",
-        "product_link": "https://useliminal.xyz/",
-        "source": "feed"
-      },
-      {
-        "name": "Lamoom",
-        "slug": "lamoom",
-        "desc": "Run agent apps inside your Claude or sell your own",
-        "desc_zh": "在 Claude 内部运行代理应用程序或出售您自己的应用程序",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/lamoom",
-        "product_link": "https://lamoom.com/",
-        "source": "feed"
-      },
-      {
-        "name": "Cercle",
-        "slug": "cercle",
-        "desc": "The bat signal for your closest friends.",
-        "desc_zh": "向您最亲密的朋友发出的蝙蝠信号。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/cercle",
-        "product_link": "https://cercle.me/",
-        "source": "feed"
-      },
-      {
-        "name": "Firstpass",
-        "slug": "glaze-4",
-        "desc": "Actionable input so you nail every launch",
-        "desc_zh": "可操作的输入，让您成功完成每次发布",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/glaze-4",
-        "product_link": "https://glaze.app/",
-        "source": "feed"
-      },
-      {
-        "name": "MCP-Billing",
-        "slug": "mcp-billing",
-        "desc": "OAuth 2.1 + usage-based Stripe billing for MCP servers",
-        "desc_zh": "OAuth 2.1 + MCP 服务器基于使用情况的 Stripe 计费",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/mcp-billing",
-        "product_link": "https://mcp-billing.com/",
-        "source": "feed"
-      },
-      {
-        "name": "ZenithBar",
-        "slug": "zenithbar",
-        "desc": "The activity island Windows was missing",
-        "desc_zh": "活动岛窗户缺失",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/zenithbar",
-        "product_link": "https://zenithbar.com.br/",
-        "source": "feed"
-      },
-      {
-        "name": "Growth Opt Playbook",
-        "slug": "growth-opt-playbook",
-        "desc": "Turn campaign data into your next marketing move",
-        "desc_zh": "将营销活动数据转化为您的下一个营销举措",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/growth-opt-playbook",
-        "product_link": "https://growthoptplaybook.com/en/",
-        "source": "feed"
-      },
-      {
-        "name": "Tag Your Photos",
-        "slug": "tag-your-photos",
-        "desc": "AI-powered keywords for Apple Photos, 100% on your Mac",
-        "desc_zh": "Apple Photos 的 AI 驱动关键字，100% 在您的 Mac 上",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/tag-your-photos",
-        "product_link": "https://apps.apple.com/us/app/tag-your-photos/id6791743568?mt=12&ref=producthunt",
-        "source": "feed"
-      },
-      {
-        "name": "Pinery Prose",
-        "slug": "pinery",
-        "desc": "AI co-author for books + every edit is a diff you approve",
-        "desc_zh": "AI 书籍合著者 + 每次编辑都是您批准的差异",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/pinery",
-        "product_link": "https://pinery.app/",
-        "source": "feed"
-      },
-      {
-        "name": "SUB/WAVE",
-        "slug": "sub-wave",
-        "desc": "Self-hosted radio with an AI DJ and one shared stream",
-        "desc_zh": "带有 AI DJ 和一个共享流的自托管电台",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/sub-wave",
-        "product_link": "https://www.getsubwave.com/",
-        "source": "feed"
-      },
-      {
-        "name": "EasyCircuit",
-        "slug": "easycircuit",
-        "desc": "Hardware prototyping, as simple as vibe-coding",
-        "desc_zh": "硬件原型设计，就像振动编码一样简单",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/easycircuit",
-        "product_link": "https://easycircuit.app/",
-        "source": "feed"
-      },
-      {
-        "name": "Space-Bin",
-        "slug": "space-bin",
-        "desc": "Secure temporary workspaces. No sign-up required.",
-        "desc_zh": "确保临时工作空间的安全。无需注册。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/space-bin",
-        "product_link": "https://space-bin.onrender.com/",
-        "source": "feed"
-      },
-      {
-        "name": "G.I.A.ac",
-        "slug": "g-i-a-ac",
-        "desc": "Build real, working apps from a single sentence",
-        "desc_zh": "用一句话构建真实、有效的应用程序",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/g-i-a-ac",
-        "product_link": "https://www.gia.ac/",
-        "source": "feed"
-      },
-      {
-        "name": "/mission for Claude Code",
-        "slug": "spine-2",
-        "desc": "Give Claude Code missions to spawn a team of agents",
-        "desc_zh": "给予克劳德·代码任务以产生一支特工团队",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/spine-2",
-        "product_link": "https://medley.sh/?utm_source=producthunt&ref=producthunt",
-        "source": "feed"
-      },
-      {
-        "name": "Vela",
-        "slug": "vela-4",
-        "desc": "The AI Recruiting Coordinator",
-        "desc_zh": "AI 招聘协调员",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/vela-4",
-        "product_link": "https://tryvela.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "Tandem",
-        "slug": "tandem-11",
-        "desc": "AI-native office leasing brokerage",
-        "desc_zh": "AI原生写字楼租赁经纪",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/tandem-11",
-        "product_link": "https://tandemspace.com/",
-        "source": "feed"
-      },
-      {
-        "name": "Cleanlist AI",
-        "slug": "cleanlist-ai",
-        "desc": "Natural-language prospecting: find, enrich and sync leads.",
-        "desc_zh": "自然语言勘探：查找、丰富和同步潜在客户。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/cleanlist-ai",
-        "product_link": "https://www.cleanlist.ai/",
-        "source": "feed"
-      },
-      {
-        "name": "Screencap",
-        "slug": "screencap",
-        "desc": "Turn your team's real workflows into AI training data",
-        "desc_zh": "将团队的真实工作流程转化为 AI 训练数据",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/screencap",
-        "product_link": "https://screencap.sh/",
-        "source": "feed"
-      }
-    ],
     "2026-07-28": [
       {
         "name": "SceneNote",
@@ -675,6 +493,16 @@
         "ph_link": "https://www.producthunt.com/products/tracellm",
         "product_link": "https://tracellm.in/",
         "source": "feed"
+      },
+      {
+        "name": "GrowthBook 5.0",
+        "slug": "growthbook",
+        "desc": "Build, ship, and improve at scale",
+        "desc_zh": "大规模构建、交付和改进",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/growthbook",
+        "product_link": "https://www.producthunt.com/r/p/1209958?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-07-31": [
@@ -787,6 +615,16 @@
         "ph_link": "https://www.producthunt.com/products/ctruh-studio",
         "product_link": "https://www.producthunt.com/r/p/1211605?app_id=339",
         "source": "feed"
+      },
+      {
+        "name": "AirProof AI",
+        "slug": "airproof-ai",
+        "desc": "Find the best spot for your air purifier in seconds",
+        "desc_zh": "在几秒钟内找到空气净化器的最佳位置",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/airproof-ai",
+        "product_link": "https://www.producthunt.com/r/p/1211832?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-07-30": [
@@ -868,6 +706,36 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/agentsky",
         "product_link": "https://www.producthunt.com/r/p/1211254?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Dashi Metrics",
+        "slug": "dashi-metrics",
+        "desc": "Visualize your revenue on a 3D globe",
+        "desc_zh": "在 3D 地球仪上可视化您的收入",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/dashi-metrics",
+        "product_link": "https://www.producthunt.com/r/p/1210501?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Wondering",
+        "slug": "wondering-2",
+        "desc": "Duolingo for learning anything",
+        "desc_zh": "Duolingo 可以学习任何东西",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/wondering-2",
+        "product_link": "https://www.producthunt.com/r/p/1210439?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "space ocr",
+        "slug": "space-ocr",
+        "desc": "OCR that checks its own answers, as an app or an API",
+        "desc_zh": "以应用程序或 API 的形式检查自己的答案的 OCR",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/space-ocr",
+        "product_link": "https://www.producthunt.com/r/p/1211314?app_id=339",
         "source": "feed"
       }
     ],
@@ -1371,7 +1239,7 @@
         "desc_zh": "搜索每个 AI Agent 和 IDE 对话",
         "image": "",
         "ph_link": "https://www.producthunt.com/products/inventory",
-        "product_link": "https://www.producthunt.com/r/p/1212918?app_id=339",
+        "product_link": "https://myinventory.site/",
         "source": "feed"
       },
       {
@@ -1502,6 +1370,118 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/doxy-2",
         "product_link": "https://www.producthunt.com/r/p/1213229?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "ZapDigits MCP",
+        "slug": "zapdigits",
+        "desc": "The MCP server for marketing data",
+        "desc_zh": "用于营销数据的 MCP 服务器",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/zapdigits",
+        "product_link": "https://www.producthunt.com/r/p/1213190?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Vinyl for Mac",
+        "slug": "vinyl-for-mac",
+        "desc": "Turn your Mac into a spinning vinyl player.",
+        "desc_zh": "将您的 Mac 变成旋转的黑胶播放器。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/vinyl-for-mac",
+        "product_link": "https://www.producthunt.com/r/p/1213431?app_id=339",
+        "source": "feed"
+      }
+    ],
+    "2026-08-03": [
+      {
+        "name": "Stynar",
+        "slug": "stynar",
+        "desc": "The AI SDR that runs outbound for you",
+        "desc_zh": "为您运行出站的AI SDR",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/stynar",
+        "product_link": "https://stynar.com/",
+        "source": "feed"
+      },
+      {
+        "name": "MOTHER",
+        "slug": "mother-claude-code-terminal",
+        "desc": "A terminal built for Claude Code w/ one-click session resume",
+        "desc_zh": "为 Claude Code 构建的终端，具有一键式会话恢复功能",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/mother-claude-code-terminal",
+        "product_link": "https://coastcreative.studio/apps/mother",
+        "source": "feed"
+      },
+      {
+        "name": "Snipplet",
+        "slug": "snipplet",
+        "desc": "Create and share beautiful guides from places you love",
+        "desc_zh": "创建并分享您喜爱的地方的精美指南",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/snipplet",
+        "product_link": "https://snipplet.com/",
+        "source": "feed"
+      },
+      {
+        "name": "VIDEO AI ME",
+        "slug": "video-ai-me",
+        "desc": "Make videos and post them everywhere with just one tool",
+        "desc_zh": "只需一种工具即可制作视频并将其发布到任何地方",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/video-ai-me",
+        "product_link": "https://videoai.me/",
+        "source": "feed"
+      },
+      {
+        "name": "Screen Awesome",
+        "slug": "screen-awesome-record-annotate",
+        "desc": "The free screen recorder that cannot upload your video",
+        "desc_zh": "免费的屏幕录像机无法上传您的视频",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/screen-awesome-record-annotate",
+        "product_link": "https://screenawesome.com/",
+        "source": "feed"
+      },
+      {
+        "name": "SpeakoFlow",
+        "slug": "speakoflow",
+        "desc": "Open-source local voice assistant for your desktop",
+        "desc_zh": "适用于桌面的开源本地语音助手",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/speakoflow",
+        "product_link": "https://speakoflow.com/",
+        "source": "feed"
+      },
+      {
+        "name": "Finyuus",
+        "slug": "finyuus",
+        "desc": "A code-first language for durable, governed AI workflows",
+        "desc_zh": "用于持久、受管控的 AI 工作流程的代码优先语言",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/finyuus",
+        "product_link": "https://github.com/mariusndini/Finyuus",
+        "source": "feed"
+      },
+      {
+        "name": "Glasp MCP Connector",
+        "slug": "glasp-mcp-connector",
+        "desc": "Search your highlights and notes inside Claude and ChatGPT",
+        "desc_zh": "在 Claude 和 ChatGPT 中搜索您的亮点和笔记",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/glasp-mcp-connector",
+        "product_link": "https://glasp.co/mcp",
+        "source": "feed"
+      },
+      {
+        "name": "Vibe Buddy",
+        "slug": "vibe-buddy",
+        "desc": "Hardware for AI coding",
+        "desc_zh": "AI编码硬件",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/vibe-buddy",
+        "product_link": "https://vibe-buddy.byvova.com/",
         "source": "feed"
       }
     ]
