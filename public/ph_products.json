@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T01:31:45",
+  "updated_at": "2026-08-07T22:30:58",
   "days": {
     "2026-07-31": [
       {
@@ -150,6 +150,16 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/website-to-markdown-api",
         "product_link": "https://www.producthunt.com/r/p/1211882?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Nitro 4.0",
+        "slug": "alconost-localization",
+        "desc": "The first human translation platform built for AI agents",
+        "desc_zh": "第一个为人工智能代理构建的人工翻译平台",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/alconost-localization",
+        "product_link": "https://www.producthunt.com/r/p/1211567?app_id=339",
         "source": "feed"
       }
     ],
@@ -815,6 +825,16 @@
         "ph_link": "https://www.producthunt.com/products/npm-i-g-hotcell",
         "product_link": "https://www.producthunt.com/r/p/1213363?app_id=339",
         "source": "feed"
+      },
+      {
+        "name": "ShootClip",
+        "slug": "shootclip",
+        "desc": "Edit videos 10x faster with AI",
+        "desc_zh": "利用 AI 编辑视频速度提高 10 倍",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/shootclip",
+        "product_link": "https://www.producthunt.com/r/p/1212911?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-08-03": [
@@ -917,6 +937,16 @@
         "ph_link": "https://www.producthunt.com/products/nextdoor-company",
         "product_link": "https://www.nextdoor.company/",
         "source": "feed"
+      },
+      {
+        "name": "Rindler",
+        "slug": "rindler",
+        "desc": "Automate the web work your team does by hand",
+        "desc_zh": "自动化您团队手动执行的网络工作",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/rindler",
+        "product_link": "https://www.producthunt.com/r/p/1214232?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-08-04": [
@@ -1008,6 +1038,26 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/ododok",
         "product_link": "https://www.producthunt.com/r/p/1215080?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Reference",
+        "slug": "reference-2",
+        "desc": "Local semantic search for AI agents",
+        "desc_zh": "AI 代理的本地语义搜索",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/reference-2",
+        "product_link": "https://www.producthunt.com/r/p/1215309?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Troopr AI Scrum Master",
+        "slug": "troopr",
+        "desc": "Writes your standup from real work. Remembers your team.",
+        "desc_zh": "根据实际工作撰写站立演讲。记住你的团队。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/troopr",
+        "product_link": "https://www.producthunt.com/r/p/1214599?app_id=339",
         "source": "feed"
       }
     ],
@@ -1120,6 +1170,168 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/meta",
         "product_link": "https://www.producthunt.com/r/p/1216156?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "StepShot",
+        "slug": "stepshot-2",
+        "desc": "AI that turns real workflows into step-by-step guides",
+        "desc_zh": "人工智能将真实的工作流程转变为分步指南",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/stepshot-2",
+        "product_link": "https://www.producthunt.com/r/p/1215451?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Whop CLI",
+        "slug": "whop-cli",
+        "desc": "Run your entire business from the terminal",
+        "desc_zh": "从终端运行您的整个业务",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/whop-cli",
+        "product_link": "https://www.producthunt.com/r/p/1216139?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "AndroMeld",
+        "slug": "andromeld",
+        "desc": "Bring a continuity-style experience to Android and Mac",
+        "desc_zh": "为 Android 和 Mac 带来连续性体验",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/andromeld",
+        "product_link": "https://www.producthunt.com/r/p/1215696?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Merge",
+        "slug": "merge-5",
+        "desc": "AI-native code review assessments",
+        "desc_zh": "AI 原生代码审查评估",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/merge-5",
+        "product_link": "https://www.producthunt.com/r/p/1216248?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "The new Firecrawl MCP",
+        "slug": "extract-by-firecrawl",
+        "desc": "Agent-ready web context for any MCP client.",
+        "desc_zh": "适用于任何 MCP 客户端的代理就绪 Web 上下文。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/extract-by-firecrawl",
+        "product_link": "https://www.producthunt.com/r/p/1216087?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Progress AI Observability",
+        "slug": "progress-ai-observability",
+        "desc": "Trace, evaluate, and improve AI agents in production",
+        "desc_zh": "跟踪、评估和改进生产中的 AI 代理",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/progress-ai-observability",
+        "product_link": "https://www.producthunt.com/r/p/1215770?app_id=339",
+        "source": "feed"
+      }
+    ],
+    "2026-08-06": [
+      {
+        "name": "Kitesurf",
+        "slug": "cloudflare",
+        "desc": "Browser built for agents, running on Cloudflare Workers",
+        "desc_zh": "为代理构建的浏览器，在 Cloudflare Workers 上运行",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/cloudflare",
+        "product_link": "https://www.producthunt.com/r/p/1217044?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "AgentOne Desktop",
+        "slug": "agentone-desktop",
+        "desc": "Automate boring work. Extensible and free desktop AI agent.",
+        "desc_zh": "自动化无聊的工作。可扩展且免费的桌面 AI 代理。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/agentone-desktop",
+        "product_link": "https://www.producthunt.com/r/p/1217026?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Rescript for Desktop",
+        "slug": "rescript-edit-videos-like-you-edit-text",
+        "desc": "A free, open source, Descript alternative. Runs on-device.",
+        "desc_zh": "一个免费、开源、描述的替代方案。在设备上运行。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+        "product_link": "https://www.producthunt.com/r/p/1217040?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Crew",
+        "slug": "crew-a-tiny-crew-for-claude-code",
+        "desc": "A tiny crew of monsters for your Claude Code agents",
+        "desc_zh": "克劳德代码特工的一小群怪物",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
+        "product_link": "https://www.producthunt.com/r/p/1216349?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Soloop",
+        "slug": "soloop",
+        "desc": "Approval-first Agent OS for solo founders",
+        "desc_zh": "面向独立创始人的优先批准代理操作系统",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/soloop",
+        "product_link": "https://www.producthunt.com/r/p/1216472?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "DataBlur",
+        "slug": "datablur",
+        "desc": "Blur sensitive data on screen before anyone sees it",
+        "desc_zh": "在任何人看到之前模糊屏幕上的敏感数据",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/datablur",
+        "product_link": "https://www.producthunt.com/r/p/1216604?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Prompt Bridge",
+        "slug": "prompt-bridge-2",
+        "desc": "Keep AI Context Portable",
+        "desc_zh": "保持 AI 上下文的可移植性",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/prompt-bridge-2",
+        "product_link": "https://www.producthunt.com/r/p/1216528?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Blueberry",
+        "slug": "blueberry-6",
+        "desc": "Stop Ghosting People You Actually Like",
+        "desc_zh": "别再对你真正喜欢的人做鬼了",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/blueberry-6",
+        "product_link": "https://www.producthunt.com/r/p/1216917?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "BAP Studio",
+        "slug": "bap-studio",
+        "desc": "An MPC-style drum machine that runs in a browser tab",
+        "desc_zh": "在浏览器选项卡中运行的 MPC 风格鼓机",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/bap-studio",
+        "product_link": "https://www.producthunt.com/r/p/1216882?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "HAR",
+        "slug": "har",
+        "desc": "Open Source harness for multi-agent coding workflows",
+        "desc_zh": "用于多代理编码工作流程的开源工具",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/har",
+        "product_link": "https://www.producthunt.com/r/p/1216668?app_id=339",
         "source": "feed"
       }
     ]
