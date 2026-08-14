@@ -1,138 +1,6 @@
 {
-  "updated_at": "2026-08-13T22:36:25",
+  "updated_at": "2026-08-14T22:18:12",
   "days": {
-    "2026-08-06": [
-      {
-        "name": "Kitesurf",
-        "slug": "cloudflare",
-        "desc": "Browser built for agents, running on Cloudflare Workers",
-        "desc_zh": "为代理构建的浏览器，在 Cloudflare Workers 上运行",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/cloudflare",
-        "product_link": "https://www.producthunt.com/r/p/1217044?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "AgentOne Desktop",
-        "slug": "agentone-desktop",
-        "desc": "Automate boring work. Extensible and free desktop AI agent.",
-        "desc_zh": "自动化无聊的工作。可扩展且免费的桌面 AI 代理。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/agentone-desktop",
-        "product_link": "https://www.producthunt.com/r/p/1217026?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Rescript for Desktop",
-        "slug": "rescript-edit-videos-like-you-edit-text",
-        "desc": "A free, open source, Descript alternative. Runs on-device.",
-        "desc_zh": "一个免费、开源、描述的替代方案。在设备上运行。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
-        "product_link": "https://www.producthunt.com/r/p/1217040?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Crew",
-        "slug": "crew-a-tiny-crew-for-claude-code",
-        "desc": "A tiny crew of monsters for your Claude Code agents",
-        "desc_zh": "克劳德代码特工的一小群怪物",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
-        "product_link": "https://www.producthunt.com/r/p/1216349?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Soloop",
-        "slug": "soloop",
-        "desc": "Approval-first Agent OS for solo founders",
-        "desc_zh": "面向独立创始人的优先批准代理操作系统",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/soloop",
-        "product_link": "https://www.producthunt.com/r/p/1216472?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "DataBlur",
-        "slug": "datablur",
-        "desc": "Blur sensitive data on screen before anyone sees it",
-        "desc_zh": "在任何人看到之前模糊屏幕上的敏感数据",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/datablur",
-        "product_link": "https://www.producthunt.com/r/p/1216604?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Prompt Bridge",
-        "slug": "prompt-bridge-2",
-        "desc": "Keep AI Context Portable",
-        "desc_zh": "保持 AI 上下文的可移植性",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/prompt-bridge-2",
-        "product_link": "https://www.producthunt.com/r/p/1216528?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Blueberry",
-        "slug": "blueberry-6",
-        "desc": "Stop Ghosting People You Actually Like",
-        "desc_zh": "别再对你真正喜欢的人做鬼了",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/blueberry-6",
-        "product_link": "https://www.producthunt.com/r/p/1216917?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "BAP Studio",
-        "slug": "bap-studio",
-        "desc": "An MPC-style drum machine that runs in a browser tab",
-        "desc_zh": "在浏览器选项卡中运行的 MPC 风格鼓机",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/bap-studio",
-        "product_link": "https://www.producthunt.com/r/p/1216882?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "HAR",
-        "slug": "har",
-        "desc": "Open Source harness for multi-agent coding workflows",
-        "desc_zh": "用于多代理编码工作流程的开源工具",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/har",
-        "product_link": "https://www.producthunt.com/r/p/1216668?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Vidaya",
-        "slug": "vidaya",
-        "desc": "Healthspan score from your wearables, labs, and DNA.",
-        "desc_zh": "来自您的可穿戴设备、实验室和 DNA 的健康跨度评分。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/vidaya",
-        "product_link": "https://www.producthunt.com/r/p/1216311?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Swipe",
-        "slug": "swipe-9",
-        "desc": "Swipe right on your next customer",
-        "desc_zh": "向右滑动找到您的下一个客户",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/swipe-9",
-        "product_link": "https://www.producthunt.com/r/p/1216886?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Continuum",
-        "slug": "continuum-2027",
-        "desc": "Remember what you know about the people you manage",
-        "desc_zh": "记住您对所管理人员的了解",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/continuum-2027",
-        "product_link": "https://www.producthunt.com/r/p/1216567?app_id=339",
-        "source": "feed"
-      }
-    ],
     "2026-08-08": [
       {
         "name": "Good Assistant 2",
@@ -294,6 +162,16 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/bb",
         "product_link": "https://www.producthunt.com/r/p/1217674?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "BrowserAct Cloud",
+        "slug": "browseract",
+        "desc": "Scrape any data from any website with one prompt",
+        "desc_zh": "通过一个提示即可从任何网站抓取任何数据",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/browseract",
+        "product_link": "https://www.producthunt.com/r/p/1217183?app_id=339",
         "source": "feed"
       }
     ],
@@ -509,6 +387,36 @@
         "ph_link": "https://www.producthunt.com/products/google",
         "product_link": "https://www.producthunt.com/r/p/1221766?app_id=339",
         "source": "feed"
+      },
+      {
+        "name": "Munder Difflin",
+        "slug": "munder-difflin",
+        "desc": "Make clones with Claude Code and Codex to do your work",
+        "desc_zh": "使用 Claude Code 和 Codex 进行克隆来完成您的工作",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/munder-difflin",
+        "product_link": "https://www.producthunt.com/r/p/1221363?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "isolate.video",
+        "slug": "isolate-video",
+        "desc": "Turn screen recordings into engaging product videos",
+        "desc_zh": "将屏幕录制变成引人入胜的产品视频",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/isolate-video",
+        "product_link": "https://www.producthunt.com/r/p/1221852?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "min.",
+        "slug": "min-4",
+        "desc": "AI that loves to follow up after meetings",
+        "desc_zh": "喜欢在会议结束后跟进的人工智能",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/min-4",
+        "product_link": "https://www.producthunt.com/r/p/1221760?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-08-10": [
@@ -530,6 +438,16 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/trigger-dev",
         "product_link": "https://www.producthunt.com/r/p/1219801?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Occasio®",
+        "slug": "occasio-2",
+        "desc": "Pinboard meets citation manager for shared insights.",
+        "desc_zh": "Pinboard 与引文经理会面，分享见解。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/occasio-2",
+        "product_link": "https://www.producthunt.com/r/p/1219838?app_id=339",
         "source": "feed"
       }
     ],
@@ -682,6 +600,138 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/grok",
         "product_link": "https://www.producthunt.com/r/p/1220287?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Muse",
+        "slug": "muse-19",
+        "desc": "Al Visual Bookmark Manager for Mac",
+        "desc_zh": "Al 视觉书签管理器 Mac 版",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/muse-19",
+        "product_link": "https://www.producthunt.com/r/p/1220291?app_id=339",
+        "source": "feed"
+      }
+    ],
+    "2026-08-13": [
+      {
+        "name": "Compass Calendar",
+        "slug": "compass-calendar",
+        "desc": "The keyboard-first calendar to get organized quickly",
+        "desc_zh": "键盘优先的日历可快速整理",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/compass-calendar",
+        "product_link": "https://www.producthunt.com/r/p/1222394?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "NS1",
+        "slug": "ns1",
+        "desc": "Personalized Nervous System Training",
+        "desc_zh": "个性化神经系统训练",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/ns1",
+        "product_link": "https://www.producthunt.com/r/p/1222240?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Port22",
+        "slug": "port22",
+        "desc": "Claude Code, Codex & more on your phone",
+        "desc_zh": "手机上的克劳德代码、Codex 等内容",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/port22",
+        "product_link": "https://www.producthunt.com/r/p/1222175?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Basedash Tasks",
+        "slug": "basedash",
+        "desc": "Run your business on autopilot",
+        "desc_zh": "自动驾驶您的业务",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/basedash",
+        "product_link": "https://www.producthunt.com/r/p/1222557?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Freebuff",
+        "slug": "freebuff-2",
+        "desc": "Free coding agents to kill Claude, Cursor, Replit, and Devin",
+        "desc_zh": "免费编码代理杀死 Claude、Cursor、Replit 和 Devin",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/freebuff-2",
+        "product_link": "https://www.producthunt.com/r/p/1222324?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Suno Studio 2.0",
+        "slug": "suno",
+        "desc": "Browser-based generative DAW",
+        "desc_zh": "基于浏览器的生成 DAW",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/suno",
+        "product_link": "https://www.producthunt.com/r/p/1222442?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "ChordViz",
+        "slug": "chordviz",
+        "desc": "Build your own music visualizer for MIDI & audio",
+        "desc_zh": "构建您自己的 MIDI 和音频音乐可视化工具",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/chordviz",
+        "product_link": "https://www.producthunt.com/r/p/1222530?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Openmotion",
+        "slug": "openmotion",
+        "desc": "Turn product screenshots and prompts into motion videos",
+        "desc_zh": "将产品截图和提示变成动态视频",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/openmotion",
+        "product_link": "https://www.producthunt.com/r/p/1221923?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "oxpecker",
+        "slug": "oxpecker",
+        "desc": "Know which of your lines a vendor just broke",
+        "desc_zh": "了解供应商刚刚破坏了您的哪条线路",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/oxpecker",
+        "product_link": "https://www.producthunt.com/r/p/1222251?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "DeepSeek Harness",
+        "slug": "deepseek",
+        "desc": "Composable agent harness where everything is a plugin",
+        "desc_zh": "可组合的代理工具，一切都是插件",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/deepseek",
+        "product_link": "https://www.producthunt.com/r/p/1222158?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Gemini 3.7 Flash",
+        "slug": "gemini-3-7-flash",
+        "desc": "Google's smartest workhorse yet for coding & agents",
+        "desc_zh": "Google 迄今为止最智能的编码和代理主力",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/gemini-3-7-flash",
+        "product_link": "https://www.producthunt.com/r/p/1222359?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Theos[RFM]",
+        "slug": "theos-rfm-remote-facility-manager",
+        "desc": "Manage facilities in 3D, in the real world, in real time",
+        "desc_zh": "在现实世界中实时管理 3D 设施",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
+        "product_link": "https://www.producthunt.com/r/p/1222549?app_id=339",
         "source": "feed"
       }
     ]
