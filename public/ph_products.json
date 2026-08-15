@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:18:12",
+  "updated_at": "2026-08-15T22:16:21",
   "days": {
     "2026-08-08": [
       {
@@ -93,88 +93,6 @@
         "source": "feed"
       }
     ],
-    "2026-08-07": [
-      {
-        "name": "DocsAlot CLI",
-        "slug": "docsalot-2",
-        "desc": "Let Claude or Codex create and maintain good looking docs",
-        "desc_zh": "让 Claude 或 Codex 创建和维护美观的文档",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/docsalot-2",
-        "product_link": "https://www.producthunt.com/r/p/1217602?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Toolport",
-        "slug": "conduit-12",
-        "desc": "Every tool, one port. One MCP setup for all your AI agents",
-        "desc_zh": "每一种工具，一个端口。适用于所有 AI 代理的一个 MCP 设置",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/conduit-12",
-        "product_link": "https://www.producthunt.com/r/p/1217619?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Basedash Subscriptions",
-        "slug": "basedash",
-        "desc": "Subscribe to any dashboard. Delivered on schedule.",
-        "desc_zh": "订阅任何仪表板。按计划交付。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/basedash",
-        "product_link": "https://www.producthunt.com/r/p/1217769?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Ballet",
-        "slug": "ballet",
-        "desc": "Agentic workflows that deliver the same outcome every time",
-        "desc_zh": "每次都能提供相同结果的代理工作流程",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/ballet",
-        "product_link": "https://www.producthunt.com/r/p/1217503?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "RightCard",
-        "slug": "rightcard",
-        "desc": "The honest credit card picker — no bank login",
-        "desc_zh": "诚实的信用卡选择器 - 无需银行登录",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/rightcard",
-        "product_link": "https://www.producthunt.com/r/p/1217742?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Dograh",
-        "slug": "dograh",
-        "desc": "The open source VAPI alternative",
-        "desc_zh": "开源 VAPI 替代方案",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/dograh",
-        "product_link": "https://www.producthunt.com/r/p/1217382?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "bb",
-        "slug": "bb",
-        "desc": "The IDE that builds itself",
-        "desc_zh": "自行构建的 IDE",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/bb",
-        "product_link": "https://www.producthunt.com/r/p/1217674?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "BrowserAct Cloud",
-        "slug": "browseract",
-        "desc": "Scrape any data from any website with one prompt",
-        "desc_zh": "通过一个提示即可从任何网站抓取任何数据",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/browseract",
-        "product_link": "https://www.producthunt.com/r/p/1217183?app_id=339",
-        "source": "feed"
-      }
-    ],
     "2026-08-09": [
       {
         "name": "Prime Agent",
@@ -234,6 +152,26 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/gotcha-5",
         "product_link": "https://www.producthunt.com/r/p/1219093?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Clamshell",
+        "slug": "clamshell",
+        "desc": "Close your MacBook. Keep the work running.",
+        "desc_zh": "关闭你的 MacBook。让工作继续进行。",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/clamshell",
+        "product_link": "https://www.producthunt.com/r/p/1218699?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Attyn",
+        "slug": "attyn",
+        "desc": "Bringing intelligence to your cursor",
+        "desc_zh": "为您的光标带来智能",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/attyn",
+        "product_link": "https://www.producthunt.com/r/p/1218955?app_id=339",
         "source": "feed"
       }
     ],
@@ -416,6 +354,16 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/min-4",
         "product_link": "https://www.producthunt.com/r/p/1221760?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "nenspace",
+        "slug": "nenspace",
+        "desc": "the lo-fi of LLMs: your mind, made larger",
+        "desc_zh": "法学硕士的低保真度：让你的思维变得更广阔",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/nenspace",
+        "product_link": "https://www.producthunt.com/r/p/1221450?app_id=339",
         "source": "feed"
       }
     ],
@@ -611,6 +559,16 @@
         "ph_link": "https://www.producthunt.com/products/muse-19",
         "product_link": "https://www.producthunt.com/r/p/1220291?app_id=339",
         "source": "feed"
+      },
+      {
+        "name": "Inferock Bench",
+        "slug": "inferock-bench",
+        "desc": "An independent receipt for every LLM API call",
+        "desc_zh": "每个 LLM API 调用的独立收据",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/inferock-bench",
+        "product_link": "https://www.producthunt.com/r/p/1220779?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-08-13": [
@@ -732,6 +690,36 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
         "product_link": "https://www.producthunt.com/r/p/1222549?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Chronock",
+        "slug": "chronock",
+        "desc": "Scheduling and calendar sync, all in one",
+        "desc_zh": "日程安排和日历同步，合二为一",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/chronock",
+        "product_link": "https://www.producthunt.com/r/p/1222502?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "Talvo",
+        "slug": "talvo-2",
+        "desc": "Connect 2,500+ European banks to track your spending",
+        "desc_zh": "连接 2,500 多家欧洲银行来跟踪您的支出",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/talvo-2",
+        "product_link": "https://www.producthunt.com/r/p/1222256?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "GLM-5.3",
+        "slug": "z-ai",
+        "desc": "Coding leap from scaled post-training on the same base",
+        "desc_zh": "在同一基础上进行规模化后培训的编码飞跃",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/z-ai",
+        "product_link": "https://www.producthunt.com/r/p/1222612?app_id=339",
         "source": "feed"
       }
     ]
