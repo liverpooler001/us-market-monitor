@@ -1,98 +1,6 @@
 {
-  "updated_at": "2026-08-15T22:16:21",
+  "updated_at": "2026-08-16T22:16:28",
   "days": {
-    "2026-08-08": [
-      {
-        "name": "Good Assistant 2",
-        "slug": "good-assistant",
-        "desc": "Turn life goals into daily progress.",
-        "desc_zh": "将人生目标转化为每日进步。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/good-assistant",
-        "product_link": "https://www.producthunt.com/r/p/1218012?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Workflo",
-        "slug": "workflo-2",
-        "desc": "Mac workspace automation that never sees your screen",
-        "desc_zh": "Mac 工作区自动化永远不会看到您的屏幕",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/workflo-2",
-        "product_link": "https://www.producthunt.com/r/p/1218298?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Argos",
-        "slug": "argos-2",
-        "desc": "The AI that acts as you, right in your browser",
-        "desc_zh": "人工智能在您的浏览器中充当您的角色",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/argos-2",
-        "product_link": "https://www.producthunt.com/r/p/1218316?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Soup CLI",
-        "slug": "soup-cli",
-        "desc": "Fine-tune an 8B LLM on a 4 GB laptop GPU",
-        "desc_zh": "在 4 GB 笔记本电脑 GPU 上微调 8B LLM",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/soup-cli",
-        "product_link": "https://www.producthunt.com/r/p/1217869?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "DuckDisk",
-        "slug": "duckdisk",
-        "desc": "Table-first storage analysis for Mac, cloud, and SSH",
-        "desc_zh": "适用于 Mac、云和 SSH 的表优先存储分析",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/duckdisk",
-        "product_link": "https://www.producthunt.com/r/p/1217952?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "VoiceOS App Store",
-        "slug": "voiceos",
-        "desc": "The app store for voice native apps that lives in your notch",
-        "desc_zh": "适合您的语音原生应用程序的应用程序商店",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/voiceos",
-        "product_link": "https://www.producthunt.com/r/p/1218300?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Grok Imagine 2.0",
-        "slug": "grok",
-        "desc": "Next-gen AI image generator with segmentation editing.",
-        "desc_zh": "具有分段编辑功能的下一代人工智能图像生成器。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/grok",
-        "product_link": "https://www.producthunt.com/r/p/1217922?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Patience",
-        "slug": "patience-2",
-        "desc": "The only mechanic is waiting. The only currency is time.",
-        "desc_zh": "唯一的机械师正在等待。唯一的货币是时间。",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/patience-2",
-        "product_link": "https://www.producthunt.com/r/p/1218262?app_id=339",
-        "source": "feed"
-      },
-      {
-        "name": "Lettertrace",
-        "slug": "lettertrace",
-        "desc": "Track your AI visibility for free (using your own API keys!)",
-        "desc_zh": "免费跟踪您的 AI 可见性（使用您自己的 API 密钥！）",
-        "image": "",
-        "ph_link": "https://www.producthunt.com/products/lettertrace",
-        "product_link": "https://www.producthunt.com/r/p/1218357?app_id=339",
-        "source": "feed"
-      }
-    ],
     "2026-08-09": [
       {
         "name": "Prime Agent",
@@ -397,6 +305,16 @@
         "ph_link": "https://www.producthunt.com/products/occasio-2",
         "product_link": "https://www.producthunt.com/r/p/1219838?app_id=339",
         "source": "feed"
+      },
+      {
+        "name": "AirAlarm",
+        "slug": "airalarm",
+        "desc": "Wake at the end of your sleep cycle",
+        "desc_zh": "在睡眠周期结束时醒来",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/airalarm",
+        "product_link": "https://www.producthunt.com/r/p/1219365?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-08-11": [
@@ -569,6 +487,16 @@
         "ph_link": "https://www.producthunt.com/products/inferock-bench",
         "product_link": "https://www.producthunt.com/r/p/1220779?app_id=339",
         "source": "feed"
+      },
+      {
+        "name": "Expeditione",
+        "slug": "expeditione",
+        "desc": "The Interactive 3D Encyclopedia",
+        "desc_zh": "互动 3D 百科全书",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/expeditione",
+        "product_link": "https://www.producthunt.com/r/p/1221007?app_id=339",
+        "source": "feed"
       }
     ],
     "2026-08-13": [
@@ -720,6 +648,28 @@
         "image": "",
         "ph_link": "https://www.producthunt.com/products/z-ai",
         "product_link": "https://www.producthunt.com/r/p/1222612?app_id=339",
+        "source": "feed"
+      },
+      {
+        "name": "HarnessRouter Community Edition",
+        "slug": "epsilla",
+        "desc": "Open-source unified interface for agent harnesses",
+        "desc_zh": "代理线束的开源统一接口",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/epsilla",
+        "product_link": "https://www.producthunt.com/r/p/1222624?app_id=339",
+        "source": "feed"
+      }
+    ],
+    "2026-08-14": [
+      {
+        "name": "Chert",
+        "slug": "chert",
+        "desc": "Vapi for FaceTime: AI video agents in a few lines",
+        "desc_zh": "Vapi for FaceTime：几行人工智能视频代理",
+        "image": "",
+        "ph_link": "https://www.producthunt.com/products/chert",
+        "product_link": "https://www.producthunt.com/r/p/1223253?app_id=339",
         "source": "feed"
       }
     ]
